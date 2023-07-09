@@ -1,0 +1,85 @@
+
+  .header {
+    background-color: #dd2323;
+    padding: 20px;
+   
+  }
+  .header h1 {
+    margin: 0;
+    
+  }
+  .navbar-light .navbar-toggler {
+    color: rgba(0,0,0,.5);
+    border:none !important;
+   
+}
+button:focus {
+  outline: none !important;
+}
+.navbar-shadow {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.bg-light{
+  box-shadow: 0 23px 25px rgba(0, 0, 0, 0.1);
+} 
+.navbar-logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333; 
+}
+
+.navbar-nav .nav-link{
+  margin-left: 2rem;
+}
+.fruit_detail{
+  font-size: 40px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  background: linear-gradient(to right, #c343ff, #ab00ff, #48006a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.required{
+  color: #dd2323;
+}
+.form-container {
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  margin: auto;
+  padding: 10px 10px 25px 10px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+  background-color: #f2f2f2;
+}
+.bnt_submit{
+  padding: 10px 10px 10px ;
+  background-color:black;
+  color: #fff;
+  border: none;
+  font-size: 18px;
+  border-radius:25px;
+  padding: 8px 31px 8px 31px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.error{
+  color: #dd2323;
+}
+.footer {
+  background-color: #c343ff;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+}
+.footer h1{
+  font-size: 18px;
+
+}
+.table-shadow {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 10;
+}
